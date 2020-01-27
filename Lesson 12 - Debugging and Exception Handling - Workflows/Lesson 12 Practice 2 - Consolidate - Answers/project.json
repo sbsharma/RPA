@@ -1,0 +1,26 @@
+{
+  "name": "Lesson 12 Practice 2 - Consolidate - Answers",
+  "description": "Blank Process",
+  "main": "Correct errors.xaml",
+  "dependencies": {
+    "UiPath.UIAutomation.Activities": "[18.3.6849.17212]",
+    "UiPath.System.Activities": "[18.3.6849.17190]",
+    "UiPath.Excel.Activities": "[2.3.6682.26635]",
+    "UiPath.Mail.Activities": "[1.1.6562.21018]"
+  },
+  "schemaVersion": "3.2",
+  "studioVersion": "18.3.1.22",
+  "projectVersion": "1.0.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ]
+  },
+  "projectType": "Workflow",
+  "libraryOptions": {
+    "includeOriginalXaml": false,
+    "privateWorkflows": []
+  }
+}

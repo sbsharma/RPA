@@ -1,0 +1,26 @@
+{
+  "name": "Academy1Lesson12Practice1",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Mail.Activities": "[1.2.6863.29868]",
+    "UiPath.Excel.Activities": "[2.4.6863.30657]",
+    "UiPath.System.Activities": "[18.3.6864.20561]",
+    "UiPath.UIAutomation.Activities": "[18.3.6864.20582]"
+  },
+  "schemaVersion": "3.2",
+  "studioVersion": "18.1.2.0",
+  "projectVersion": "1.0.6656.22540",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ]
+  },
+  "projectType": "Workflow",
+  "libraryOptions": {
+    "includeOriginalXaml": false,
+    "privateWorkflows": []
+  }
+}

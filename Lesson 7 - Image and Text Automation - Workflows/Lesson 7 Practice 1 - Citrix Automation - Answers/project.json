@@ -1,0 +1,24 @@
+{
+  "name": "Lesson 7 Practice 2 - Citrix Automation - Answers",
+  "description": "Project",
+  "main": "C:\\Users\\Cyril\\Documents\\UiPath\\_Academy_Revamp\\Lesson 7\\Lesson 7 Practice 2 - Citrix Automation - Answers\\Add Expense.xaml",
+  "dependencies": {
+    "UiPath.System.Activities": "[18.3.6859.25634]",
+    "UiPath.UIAutomation.Activities": "[18.3.6859.25655]"
+  },
+  "schemaVersion": "3.2",
+  "studioVersion": "18.1.1.13",
+  "projectVersion": "1.0.6666.24172",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ]
+  },
+  "projectType": "Workflow",
+  "libraryOptions": {
+    "includeOriginalXaml": false,
+    "privateWorkflows": []
+  }
+}
